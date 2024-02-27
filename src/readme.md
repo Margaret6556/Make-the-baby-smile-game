@@ -1,6 +1,7 @@
 🎮 Make-The-Baby-Smile-Game
 
-Welcome to make the baby smile game! This game is built with html, css, javascript, typewritter adn AI.
+Welcome to make the baby smile game! This game is built with html, css, javascript, typewritter and AI.
+Demo - https://vnsf9g.csb.app/
 
 🌟 **Overview**
 
