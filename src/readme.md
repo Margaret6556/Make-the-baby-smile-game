@@ -8,6 +8,9 @@ This is a simple game that will generate unlimited jokes by teh help of AI when 
 
 📸 **Screenshots**
 
+![Start - Baby is sad](src/MakeBabySmileSad_screenshot.png)
+![End - Baby is happy](src/MakeBabySmileHappy_screenshot.png)
+
 🚀 **Features**
 
 - Joke Generator
