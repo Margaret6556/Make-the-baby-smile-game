@@ -1,6 +1,6 @@
 🎮 Make-The-Baby-Smile-Game
 
-Welcome to make the baby smile game! This game is built with html, css, javascript, typewritter and AI.
+Welcome to make the baby smile game! This game is built with html, css, javascript, typewriter and AI.
 Demo - https://vnsf9g.csb.app/
 
 🌟 **Overview**
@@ -15,6 +15,6 @@ This is a simple game that will generate unlimited jokes by teh help of AI when 
 🚀 **Features**
 
 - Joke Generator
-- A good inspiration for Front-End DEvelopers/Engineers to play with and practice their UX/UI design skills.
+- A good inspiration for Front-End Developers/Engineers to play with and practice their UX/UI design skills.
 
 🎮 **_ENJOY!_**
