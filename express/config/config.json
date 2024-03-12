@@ -1,0 +1,6 @@
+{ 
+    "uri" : "localhost:3000",
+    "apiKey" :"<enter key>",
+    "context" :"You are an AI who provides popular jokes.",
+    "prompt" :"Please generate a joke that makes you laugh! Start with: Why> "
+}
